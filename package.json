@@ -1,0 +1,17 @@
+{
+  "name": "configs",
+  "version": "1.0.0",
+  "description": "package.json for all js/ts based tools",
+  "keywords": [],
+  "author": "Daniel Porzucek <worldwidepaniel>",
+  "license": "EUPL-1.2",
+  "devDependencies": {
+    "@eslint/js": "9.12.0",
+    "eslint": "9.12.0",
+    "eslint-config-prettier": "9.1.0",
+    "eslint-plugin-react": "7.37.1",
+    "globals": "15.10.0",
+    "prettier": "3.3.3",
+    "typescript-eslint": "8.8.1"
+  }
+}
